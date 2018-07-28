@@ -10597,3 +10597,6 @@ div.calendar table td.button {
   color: inherit;
   text-transform: none;
 }
+.page-title h2 {
+    font-size: 10px;
+}
